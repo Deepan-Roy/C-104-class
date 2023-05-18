@@ -1,0 +1,16 @@
+body{
+    background-color: steelblue;
+    color:white
+}
+.heading{
+    width:80%;
+    font-size: 24px ;
+    background-color: steelblue;
+    color:white
+    
+}
+#camera{
+    border:2px dotted black;
+    width:400px;
+    Height:400px;
+}
